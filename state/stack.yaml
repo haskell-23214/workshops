@@ -1,0 +1,11 @@
+resolver:
+  url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/22/11.yaml
+
+extra-deps:
+ - h-raylib-5.1.0.1@sha256:6e418336b613572c7c58139ceea170db7d1524d0f2675e89cc8bf1f56736ab93,6641
+
+packages:
+- .
+
+
+
